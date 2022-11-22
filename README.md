@@ -42,9 +42,6 @@ To touch upon some of my technical skills and the subjects that I'd look forward
 ![image](https://user-images.githubusercontent.com/114895869/195809908-08412f90-099b-478a-9581-68bdf9484cd6.png)
 ![GIS](https://img.shields.io/badge/GIS-%23white.svg?style=for-the-badge&logo=qgis&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 <a href=""><img alt="" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" /></a>
@@ -72,7 +69,7 @@ To touch upon some of my technical skills and the subjects that I'd look forward
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-%23white.svg?style=for-the-badge&logo=qgis&logoColor=white)
 ![Mediapipe](https://img.shields.io/badge/mediapipe-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 
@@ -86,7 +83,7 @@ To touch upon some of my technical skills and the subjects that I'd look forward
 
 # 🏆 GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Nandan-N&count_private=true&theme=tokyonight&showicons=true)]()
+<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Nandan-N&count_private=true&theme=tokyonight&showicons=true)]() -->
 
 
 
