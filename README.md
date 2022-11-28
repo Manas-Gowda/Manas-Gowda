@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <hr/>
-To touch upon some of my technical skills and the subjects that I'd look forward to having a discussion over a cup of coffee☕ on.....
+<!--To touch upon some of my technical skills and the subjects that I'd look forward to having a discussion over a cup of coffee☕ on.....-->
 
 # 💻 Languages
 
