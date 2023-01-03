@@ -1,5 +1,8 @@
 <!--[![MasterHead](https://64.media.tumblr.com/c4cd8e884f29266672924cf9599bbf28/tumblr_p0168gtRdI1runoqyo4_540.gifv)](https://my-website.rocks)-->
-![github_cover_banner](https://64.media.tumblr.com/c4cd8e884f29266672924cf9599bbf28/tumblr_p0168gtRdI1runoqyo4_540.gifv)
+<!--![github_cover_banner](https://64.media.tumblr.com/68eba6428b1e95bd4e349a16c717c880/tumblr_p0168gtRdI1runoqyo3_540.gifv)-->
+<img align="left" width="450" src="https://64.media.tumblr.com/68eba6428b1e95bd4e349a16c717c880/tumblr_p0168gtRdI1runoqyo3_540.gifv" />
+<img  width="450" src="https://64.media.tumblr.com/c4cd8e884f29266672924cf9599bbf28/tumblr_p0168gtRdI1runoqyo4_540.gifv" />
+
 
 <h1 align="center">Hello 👋, I'm Manas 🎯️🚀️</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -154,7 +157,7 @@ That makes me want to learn more and keep up with building something. -->
 <div align="center">
  <b style = {font-weight: 600}>Visitors Count</b>
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{kaustav202}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{manas-gowda}/count.svg" /></p> 
 <br>
 </div>
 -->
@@ -164,8 +167,8 @@ That makes me want to learn more and keep up with building something. -->
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
-<p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manas-gowda&theme=radical&hide_border=true"/>
+<p align="center"> 
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manas-gowda&theme=radical&hide_border=true" >
 </p>
 
 <details>
