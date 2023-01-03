@@ -1,7 +1,7 @@
 <!--[![MasterHead](https://64.media.tumblr.com/c4cd8e884f29266672924cf9599bbf28/tumblr_p0168gtRdI1runoqyo4_540.gifv)](https://my-website.rocks)-->
 <!--![github_cover_banner](https://64.media.tumblr.com/68eba6428b1e95bd4e349a16c717c880/tumblr_p0168gtRdI1runoqyo3_540.gifv)-->
-<img align="left" width="450" src="https://64.media.tumblr.com/68eba6428b1e95bd4e349a16c717c880/tumblr_p0168gtRdI1runoqyo3_540.gifv" />
-<img  width="450" src="https://64.media.tumblr.com/c4cd8e884f29266672924cf9599bbf28/tumblr_p0168gtRdI1runoqyo4_540.gifv" />
+<img align="left" width="400" src="https://64.media.tumblr.com/68eba6428b1e95bd4e349a16c717c880/tumblr_p0168gtRdI1runoqyo3_540.gifv" />
+<img  width="400" src="https://64.media.tumblr.com/c4cd8e884f29266672924cf9599bbf28/tumblr_p0168gtRdI1runoqyo4_540.gifv" />
 
 
 <h1 align="center">Hello 👋, I'm Manas 🎯️🚀️</h1>
