@@ -26,16 +26,16 @@
 
 #### Languages
 
-<p align="center"> 
+
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript&logoColor=yellow)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
-</p>
+
 
 #### Development
-<h5 align="center"> 
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
 ![Reactjs](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 ![Node js](https://img.shields.io/badge/Node%20JS-339933?style=flat&logo=nodedotjs&logoColor=white)&nbsp;
@@ -47,7 +47,7 @@
 ![Ant Design](https://img.shields.io/badge/AntDesign-0170FE?style=flat&logo=Ant%20Design&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white)
 ![Chart js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
-</h5>
+
 
 <!--      
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp; -->
@@ -132,7 +132,7 @@
   </a>
   
   <a href="https://github.com/manas-gowda">
-    <img height="137.3px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas-gowda&hide=html,css,tsql,matlab,vue,less,hcl,jupyter%20notebook&hide_title=true&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="manas-gowda | Top Languages" />
+    <img height="137.3px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas-gowda&hide=html,css,tsql,matlab,vue,less,hcl,jupyter%20notebook&hide_title=true&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="manas-gowda | Top Languages" />
   </a>
   
  </p>
