@@ -150,8 +150,8 @@ That makes me want to learn more and keep up with building something. -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
 
 <p align="center">
-<a href="https://linkedin.com/in/manasgowda" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="abhinandanraj" /></a>
-<a href="https://github.com/manas-gowda" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="manas-gowda" /></a>
+<a href="https://www.linkedin.com/in/manas-gowda-3a2142237/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="abhinandanraj" /></a>
+<a href="https://my-website.rocks" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="manas-gowda" /></a>
 <a href="mailto:manasgowda2003@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="manas-gowda" /></a>
 
 <!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=manas-gowda&label=Visitors&color=0088cc&style=flat-square" alt="manas-gowda" /> </p>
