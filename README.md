@@ -205,5 +205,8 @@ That makes me want to learn more and keep up with building something. -->
 </details>
 
 
-## ( ͡° ͜ʖ ͡°) 👀Look at the Snake🐍 eating my contributions 😉
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+<details>
+ <summary> <h3>( ͡° ͜ʖ ͡°) 👀Look at the Snake🐍 eating my contributions 😉</h3></summary>
+      <!--![snake gif](https://github.com/manas-gowda/manas-gowda/blob/output/github-contribution-grid-snake.gif)-->
+      <img src="https://github.com/manas-gowda/manas-gowda/blob/output/github-contribution-grid-snake.gif" />
+</details>
