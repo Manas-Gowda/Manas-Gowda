@@ -203,3 +203,7 @@ That makes me want to learn more and keep up with building something. -->
   </a>
  </p>
 </details>
+
+
+## ( ͡° ͜ʖ ͡°) 👀Look at the Snake🐍 eating my contributions 😉
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
