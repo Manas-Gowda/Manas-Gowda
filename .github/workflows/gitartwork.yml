@@ -2,7 +2,7 @@
  on: 
    push:
    schedule:
-     - cron: "0 */24 * * *" 
+     - cron: "0 0 */15 * *" 
  jobs:
    build:
      name: Make gitartwork SVG
