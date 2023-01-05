@@ -204,9 +204,14 @@ That makes me want to learn more and keep up with building something. -->
  </p>
 </details>
 
+<details>
+ <summary> <h3>👨🏻‍🎨Git Art Work </h3></summary>
+      <img src="https://github.com/Manas-Gowda/Manas-Gowda/blob/main/gitartwork.svg" />
+</details>
 
 <details>
  <summary> <h3>( ͡° ͜ʖ ͡°) 👀Look at the Snake🐍 eating my contributions 😉</h3></summary>
       <!--![snake gif](https://github.com/manas-gowda/manas-gowda/blob/output/github-contribution-grid-snake.gif)-->
-      <img src="https://github.com/manas-gowda/manas-gowda/blob/output/github-contribution-grid-snake.gif" />
+      <!--<img src="https://github.com/manas-gowda/manas-gowda/blob/output/github-contribution-grid-snake.gif" />-->
+      <img src="https://github.com/Manas-Gowda/Manas-Gowda/blob/output/github-contribution-grid-snake.svg" />
 </details>
