@@ -214,4 +214,8 @@ That makes me want to learn more and keep up with building something. -->
       <!--![snake gif](https://github.com/manas-gowda/manas-gowda/blob/output/github-contribution-grid-snake.gif)-->
       <!--<img src="https://github.com/manas-gowda/manas-gowda/blob/output/github-contribution-grid-snake.gif" />-->
       <img src="https://github.com/Manas-Gowda/Manas-Gowda/blob/output/github-contribution-grid-snake.svg" />
+      
+      -> Unable to view?
+      -> Tip: Change your DNS to 8.8.8.8
+      
 </details>
