@@ -12,7 +12,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&duration=3000&pause=500&center=false&lines=hey!+its+Manas;💻+Tech+Passionate...;🌍+Explorer...;👨‍💻+Coder;Developer...;Open+Source+Contributor..."/>
 
 
-<h3 align="center"> I am a computer science undergraduate student with good problem-solving skills. Passionate about programming and technology</h3>
+<!--<h3 align="center"> I am a computer science undergraduate student with good problem-solving skills. Passionate about programming and technology</h3>-->
+<h3 align="center"> I am a computer science undergraduate student passionate about programming and technology</h3>
 
 <img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/44e6cfbc0cca6818c2cb517c68c876e9ddcddd4943cbfe032af60c09318b190e/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313233353334362f73637265656e73686f74732f333235323338352f6a6f622e676966" />
 
